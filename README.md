@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Minh Huy Loi
+- 😄 He/Him
 - 👀 I’m interested in Cloud Computing & Sofware Security
 - 🌱 I’m currently learning Computer Science at UOW
 - 💞️ I’m looking to collaborate on Cloud Secruity Project, mobile apps 
-- 📫 How to reach me via my FB or Linkedin
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy play games and modify it the way i want, but i haven't create myself any mod or break into any online system.
+- 📫 Reach me via my FB or Linkedin
+- ⚡ I enjoy play games and modify it the way i want, but i haven't create myself any mod or break into any online system.
