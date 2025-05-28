@@ -3,5 +3,5 @@
 - 👀 I’m interested in Cloud Computing & Sofware Security
 - 🌱 I’m currently learning Computer Science at UOW
 - 💞️ I’m looking to collaborate website project 
-- 📫 Reach me via my FB or Linkedin
+- 📫 Reach me via my FB or Linkedin.
 - ⚡ I enjoy play games and modify it the way i want, but i haven't create myself any mod or break into any online system.
