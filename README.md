@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Minh Huy Loi
 - 😄 He/Him
-- 👀 I’m interested in Cloud Computing & Sofware Security
+- 👀 I’m interested in Web Security & Front End Development
 - 🌱 I’m currently learning Computer Science at UOW
 - 💞️ I’m looking to collaborate website project 
 - 📫 Reach me via my FB or Linkedin.
