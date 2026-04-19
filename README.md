@@ -1,7 +1,5 @@
-- 👋 Hi, My name is Minh Huy Loi
-- 😄 He/Him
-- 👀 I’m interested in Web Security & Front End Development
-- 🌱 I’m currently learning Computer Science at UOW
-- 💞️ I’m looking to collaborate website project 
-- 📫 Reach me via my FB or Linkedin.
-- ⚡ I enjoy play games and modify it the way i want, but i haven't create myself any mod or break into any online system.
+- 👋 Hi, My name is Minh Huy Loi I'm a Frontend Developer (React⚛️,Tailwind)
+- 🌐 Main Programming Languages: JavaScript, Python
+- 📚 Learning Backend & Deployment
+- 🎯 Aspiring Full-Stack Developer
+- 🎓 Computer Science Student @ UOW
