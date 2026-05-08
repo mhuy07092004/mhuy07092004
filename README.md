@@ -1,5 +1,5 @@
 # 👋 Hi I'm Hayden
-###  I'm A Frontend Developer (React⚛️, Tailwind
+###  I'm A Frontend Developer (React⚛️, Tailwind)
 
 ---
 
