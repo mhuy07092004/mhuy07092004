@@ -9,6 +9,7 @@
 * 🌐 [**Personal Portfolio**](https://haydenloi.vercel.app/) - My Portfolio Website
 
 ---
+
 ### 🛠 Skills & Education
 - 🎓 **Education:** Student at [**University of Wollongong**](https://www.uow.edu.au/) (UOW)
 - 🛡️ **Major:** Computer Science majoring in [**Cybersecurity**](https://www.uow.edu.au/study/computer-science/cyber-security/)
