@@ -2,7 +2,6 @@
 ###  I'm A Frontend Developer (React⚛️, Tailwind)
 
 ---
-
 ### 🚀 My Deployed Projects
 * 🅿️ [**ParkIt**](https://parkit-n05lsq1v7-longtran1406s-projects.vercel.app/login) - Smart Parking Web Applicationl.
 * ☕ [**9611Kafe**](https://9611kafe.vercel.app/) - Portfolio Website for a coffee shop in Viet Nam
