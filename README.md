@@ -1,8 +1,6 @@
 
 
-![](https://streak-stats.demolab.com/?user=mhuy07092004&theme=codeSTACKr&hide_border=false)
-![](https://github-readme-stats.shion.dev/api?username=mhuy07092004&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
+![](https://streak-stats.demolab.com/?user=mhuy07092004&theme=codeSTACKr&hide_border=false) <br/>
 
 # 💫 About Me:
 I'm a final-year Computer Science student majoring in Cybersecurity and Software Engineering with a strong interest in building secure systems and understanding how technology works under the hood. I'm passionate about cybersecurity, enjoy exploring new technologies, and love tinkering with games to see how they work. My goal is to become a Cloud Security Engineer and continue learning, building, and contributing along the way.<br>
@@ -13,4 +11,5 @@ I'm a final-year Computer Science student majoring in Cybersecurity and Software
 
 # 💻 Tech I Used:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br/>
+![](https://github-readme-stats.shion.dev/api?username=mhuy07092004&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mhuy07092004&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
