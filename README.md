@@ -5,7 +5,6 @@
 # 💫 About Me:
 I'm a final-year Computer Science student majoring in Cybersecurity and Software Engineering with a strong interest in building secure systems and understanding how technology works under the hood. I'm passionate about cybersecurity, enjoy exploring new technologies, and love tinkering with games to see how they work. My goal is to become a Cloud Security Engineer and continue learning, building, and contributing along the way.<br>
 
-
 ## 🌐 My Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huyminh0709) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhuy.7904) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minh-huy-loi-419079277) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ItsHuyz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhuy07092004@gmail.com) 
 
